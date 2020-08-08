@@ -28,11 +28,9 @@
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
 <img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-<img align="left" alt="Arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/230px-Selenium_Logo.png" />
 <img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="gcp" width="26px" src="https://parshnt.github.io/assets/icons/gcp.png" />
 <img align="left" alt="Digital-ocean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/240px-DigitalOcean_logo.svg.png" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
-<img align="left" alt="Arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/320px-Arduino_Logo.svg.png" />
