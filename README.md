@@ -1,7 +1,7 @@
 👋 Hello! I'm [Parshant](https://parshnt.github.io)
 ----------------------
 
-[![Website Badge](https://img.shields.io/badge/-parshnt.me-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://parshnt.me)](https://parshnt.me) [![Twitter Badge](https://img.shields.io/badge/-@parshnt__-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/parshnt_)](https://twitter.com/parshnt_) [![Medium Badge](https://img.shields.io/badge/-@parshnt-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@parshnt)](https://medium.com/@parshnt) [![LinkedIn Badge](https://img.shields.io/badge/-@parshnt-0e76a8?style=flat-square&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/parshnt/)](https://www.linkedin.com/in/parshnt/)
+[![Website Badge](https://img.shields.io/badge/-parshnt.me-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://parshnt.github.io)](https://parshnt.github.io) [![Twitter Badge](https://img.shields.io/badge/-@parshnt__-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/parshnt_)](https://twitter.com/parshnt_) [![Medium Badge](https://img.shields.io/badge/-@parshnt-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@parshnt)](https://medium.com/@parshnt) [![LinkedIn Badge](https://img.shields.io/badge/-@parshnt-0e76a8?style=flat-square&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/parshnt/)](https://www.linkedin.com/in/parshnt/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parshnt.profile.id)
 
