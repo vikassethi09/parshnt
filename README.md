@@ -6,7 +6,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parshnt.profile.id)
 
 ## I'm a Undergraduate, Speaker and Developer!
-- 🔭 I’m currently working on an **Ecommerce Platform**
+
+[//]: # (- 🔭 I’m currently working on an **Ecommerce Platform**)
 - 🌱 I’m currently learning **Algorithmic trading** 📈
 - 💬 Ask me about **C++, Git and Python**
 - 🥅 2020 Goals: Contribute more to Open Source projects
